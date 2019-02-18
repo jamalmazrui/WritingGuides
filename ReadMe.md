@@ -2,9 +2,7 @@
 A collection of writing guides by government agencies\
 Distributed by Jamal Mazrui on February 17, 2019
 
-This project is a downloadable collection of U.S. government publications on writing with plain language and other considerations to improve usability.
-
-Each of the .pdf publications listed below may be downloaded or opened individually from this web page (Note that one spans numerous files):
+This project is a downloadable collection of U.S. government publications on writing with plain language and other considerations to improve usability.  Each of the 32 .pdf publications listed below may be downloaded or opened individually from this web page (Note that one spans numerous files):
 
 <http://GitHub.com/JamalMazrui/WritingGuides>
 
